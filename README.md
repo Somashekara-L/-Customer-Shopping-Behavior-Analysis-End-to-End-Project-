@@ -60,4 +60,5 @@ The goal of this project is to generate actionable insights that help businesses
 ---
 
 ## 📁 Project Structure
-----[[
+## 📎 Project Dashboard
+
