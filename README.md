@@ -1,4 +1,4 @@
-# 🛒 Customer Shopping Behavior Analysis (End-to-End Project)
+[[# 🛒 Customer Shopping Behavior Analysis (End-to-End Project)
 
 ## 📌 Project Overview
 This project analyzes customer shopping behavior to understand purchasing patterns, sales trends, and product performance. The analysis was performed using **Python, SQL, and Power BI**, creating an end-to-end data analytics workflow from data extraction to interactive dashboard visualization.
@@ -60,4 +60,3 @@ The goal of this project is to generate actionable insights that help businesses
 ---
 
 ## 📁 Project Structure
-Data File : 
