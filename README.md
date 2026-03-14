@@ -57,5 +57,4 @@ The goal of this project is to generate actionable insights that help businesses
 - Analyzed sales distribution across product segments
 - Highlighted customer spending trends
 
----
 
